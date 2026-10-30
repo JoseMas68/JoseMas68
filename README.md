@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Jos%C3%A9%20Mas&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20a%20medida%20para%20negocios%20reales&descAlignY=60" alt="José Mas, software a medida para negocios reales" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Construyo%20software.%20Y%20lo%20protejo.&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Jos%C3%A9%20Mas%20%C2%B7%20CEO%20de%20LumicaTech%20%C2%B7%20SaaS%2C%20ERP%2C%20webs%20e%20IA&descSize=17&descAlignY=58" alt="Construyo software. Y lo protejo. José Mas, CEO de LumicaTech: SaaS, ERP, webs e IA" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=SaaS+con+IA+integrada;ERP+y+CRM+a+medida;Dise%C3%B1o+web+y+WordPress+headless;Ciberseguridad+y+servidores+blindados;Agentes+conectados+por+MCP" alt="SaaS con IA integrada, ERP y CRM a medida, diseño web y WordPress headless, ciberseguridad y servidores blindados, agentes conectados por MCP" />
 
